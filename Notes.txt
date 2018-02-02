@@ -1,0 +1,2 @@
+Model
+rgm Moussaillon bio:text username:string email:string
